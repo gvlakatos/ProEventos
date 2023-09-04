@@ -522,3 +522,7 @@ Thumbs.db
 *.pack
 *.json
 */babel-webpack
+
+*.db
+*.db-shm
+*.db-wal
